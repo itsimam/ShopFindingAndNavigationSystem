@@ -19,9 +19,13 @@ Files
 How To Run The Program
 
 1 - Make sure to have Python 3 installed on your system.
+
 2 - Make sure all the files are in the same directory.
+
 3 - Open terminal and navigate to the directory containing the files.
+
 4 - Run the following command to start the Shop navigating menu : python3 Menu.py
+
 5 - The program will display a menu with options - Enter the corresponding number (1-8) to perform the opertion:
 
 	Welcome to the Shop Finding and Navigation System
